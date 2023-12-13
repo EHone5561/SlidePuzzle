@@ -58,6 +58,13 @@
 <img src="image/Slide9.png" width="500">
 -----------------------------------------------------------------------------
 <img src="image/Diagram.png">
+#####Model - SlidePuzzleBoard PuzzlePiece PuzzleButton StartButton UpButton DownButton RightButton LeftButton PossibleCheck
+
+#####Controller - PuzzleFrame
+
+#####InputView - PuzzleStarter
+
+#####VIew - PuzzleFrame
 *이로서 저희 [윤이김] 팀이 슬라이드 퍼즐 개선사항을 모두 발표하였습니다. 
 
 *이 프로젝트를 하며, 저희가 실습 시간에 했던 슬라이드 퍼즐에 대해 더욱 심도 있게 알아볼 수 있었다고 생각합니다.
