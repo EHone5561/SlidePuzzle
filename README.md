@@ -44,31 +44,38 @@
 * 아래로 `Up` `Down` `Left` `Right` 버튼을 구현하여 2048처럼 빈 공간에 퍼즐들을 한 번에 이동시킬 수 있습니다.
   
 <img src="image/Slide5.png" width="500">
+
 ^`Right`을 사용하여 버튼 밀기
 
 <img src="image/Slide6.png" width="500">
+
 ^`Up`을 사용하여 버튼 밀기
 
 <img src="image/Slide7.png" width="500">
+
 ^`Left`을 사용하여 버튼 밀기
 
 <img src="image/Slide8.png" width="500">
 
 * 알고리즘은 대표적으로 버튼 하나만 살펴보자면 다음과 같습니다.
+
 <img src="image/Slide9.png" width="500">
 -----------------------------------------------------------------------------
 <img src="image/Diagram.png">
-#####Model - SlidePuzzleBoard PuzzlePiece PuzzleButton StartButton UpButton DownButton RightButton LeftButton PossibleCheck
 
-#####Controller - PuzzleFrame
+* 구조는 다음과 같습니다.
+##### Model - SlidePuzzleBoard PuzzlePiece PuzzleButton StartButton UpButton DownButton RightButton LeftButton PossibleCheck
 
-#####InputView - PuzzleStarter
+##### Controller - PuzzleFrame
 
-#####VIew - PuzzleFrame
-*이로서 저희 [윤이김] 팀이 슬라이드 퍼즐 개선사항을 모두 발표하였습니다. 
+##### InputView - PuzzleStarter
 
-*이 프로젝트를 하며, 저희가 실습 시간에 했던 슬라이드 퍼즐에 대해 더욱 심도 있게 알아볼 수 있었다고 생각합니다.
+##### OutputVIew - PuzzleFrame
 
-*또 팀원들과 협력하며 프로젝트를 하는 것에 있어, 경험을 더욱 쌓을 수 있었다고 생각합니다.
+* 이로서 저희 [윤이김] 팀이 슬라이드 퍼즐 개선사항을 모두 발표하였습니다. 
+
+* 이 프로젝트를 하며, 저희가 실습 시간에 했던 슬라이드 퍼즐에 대해 더욱 심도 있게 알아볼 수 있었다고 생각합니다.
+
+* 또 팀원들과 협력하며 프로젝트를 하는 것에 있어, 경험을 더욱 쌓을 수 있었다고 생각합니다.
 
 *이상으로 발표를 마치겠습니다.
